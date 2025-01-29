@@ -49,4 +49,3 @@ players = [
     { "name": "Luis Suárez", "team": "Grêmio", "goals": 12, "assists": 4 },
     { "name": "André Onana", "team": "Manchester United", "goals": 0, "assists": 0 }
 ]
-fd
